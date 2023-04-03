@@ -1,0 +1,76 @@
+[INFO ] 2022-11-22 22:15:00.520 [main] Ecommers - url open
+[INFO ] 2022-11-22 22:18:45.773 [main] Ecommers - url open
+[INFO ] 2022-11-22 22:18:45.922 [main] Ecommers - enter username
+[INFO ] 2022-11-22 22:18:46.021 [main] Ecommers - enter password
+[INFO ] 2022-11-22 22:18:46.197 [main] Ecommers - click on loginBtn
+[INFO ] 2022-11-22 22:46:24.565 [main] Ecommers - url open
+[INFO ] 2022-11-22 22:46:24.736 [main] Ecommers - enter username
+[INFO ] 2022-11-22 22:46:24.844 [main] Ecommers - enter password
+[INFO ] 2022-11-22 22:46:24.993 [main] Ecommers - click on loginBtn
+[INFO ] 2022-11-22 22:46:25.117 [main] Ecommers - salect product 1
+[INFO ] 2022-11-22 22:46:25.199 [main] Ecommers - salect product 2
+[INFO ] 2022-11-22 22:46:25.273 [main] Ecommers - click on add to cart
+[INFO ] 2022-11-22 22:46:25.356 [main] Ecommers - continue to checkout
+[INFO ] 2022-11-22 22:46:25.462 [main] Ecommers - enter fname
+[INFO ] 2022-11-22 22:46:25.574 [main] Ecommers - enter lname
+[INFO ] 2022-11-22 22:46:25.677 [main] Ecommers - enter postal code
+[INFO ] 2022-11-22 22:48:51.780 [main] Ecommers - url open
+[INFO ] 2022-11-22 22:48:51.999 [main] Ecommers - enter username
+[INFO ] 2022-11-22 22:48:52.126 [main] Ecommers - enter password
+[INFO ] 2022-11-22 22:48:52.262 [main] Ecommers - click on loginBtn
+[INFO ] 2022-11-22 22:48:52.336 [main] Ecommers - salect product 1
+[INFO ] 2022-11-22 22:48:52.409 [main] Ecommers - salect product 2
+[INFO ] 2022-11-22 22:48:52.488 [main] Ecommers - click on add to cart
+[INFO ] 2022-11-22 22:48:52.569 [main] Ecommers - continue to checkout
+[INFO ] 2022-11-22 22:48:52.697 [main] Ecommers - enter fname
+[INFO ] 2022-11-22 22:48:52.799 [main] Ecommers - enter lname
+[INFO ] 2022-11-22 22:48:52.900 [main] Ecommers - enter postal code
+[INFO ] 2022-11-22 22:50:22.643 [main] Ecommers - url open
+[INFO ] 2022-11-22 22:50:22.822 [main] Ecommers - enter username
+[INFO ] 2022-11-22 22:50:22.967 [main] Ecommers - enter password
+[INFO ] 2022-11-22 22:50:23.125 [main] Ecommers - click on loginBtn
+[INFO ] 2022-11-22 22:50:23.219 [main] Ecommers - salect product 1
+[INFO ] 2022-11-22 22:50:23.292 [main] Ecommers - salect product 2
+[INFO ] 2022-11-22 22:50:23.370 [main] Ecommers - click on add to cart
+[INFO ] 2022-11-22 22:50:23.446 [main] Ecommers - continue to checkout
+[INFO ] 2022-11-22 22:50:23.559 [main] Ecommers - enter fname
+[INFO ] 2022-11-22 22:50:23.661 [main] Ecommers - enter lname
+[INFO ] 2022-11-22 22:50:23.780 [main] Ecommers - enter postal code
+[INFO ] 2022-11-22 22:51:32.047 [main] Ecommers - url open
+[INFO ] 2022-11-22 22:51:32.205 [main] Ecommers - enter username
+[INFO ] 2022-11-22 22:51:32.333 [main] Ecommers - enter password
+[INFO ] 2022-11-22 22:51:32.515 [main] Ecommers - click on loginBtn
+[INFO ] 2022-11-22 22:51:32.609 [main] Ecommers - salect product 1
+[INFO ] 2022-11-22 22:51:32.678 [main] Ecommers - salect product 2
+[INFO ] 2022-11-22 22:51:32.752 [main] Ecommers - click on add to cart
+[INFO ] 2022-11-22 22:51:32.830 [main] Ecommers - continue to checkout
+[INFO ] 2022-11-22 22:51:32.939 [main] Ecommers - enter fname
+[INFO ] 2022-11-22 22:51:33.050 [main] Ecommers - enter lname
+[INFO ] 2022-11-22 22:51:33.158 [main] Ecommers - enter postal code
+[INFO ] 2022-11-22 22:51:43.183 [main] Ecommers - click on finish
+[INFO ] 2022-11-22 22:53:09.017 [main] Ecommers - url open
+[INFO ] 2022-11-22 22:53:09.165 [main] Ecommers - enter username
+[INFO ] 2022-11-22 22:53:09.303 [main] Ecommers - enter password
+[INFO ] 2022-11-22 22:53:09.447 [main] Ecommers - click on loginBtn
+[INFO ] 2022-11-22 22:53:09.528 [main] Ecommers - salect product 1
+[INFO ] 2022-11-22 22:53:09.603 [main] Ecommers - salect product 2
+[INFO ] 2022-11-22 22:53:09.685 [main] Ecommers - click on add to cart
+[INFO ] 2022-11-22 22:53:09.763 [main] Ecommers - continue to checkout
+[INFO ] 2022-11-22 22:53:09.877 [main] Ecommers - enter fname
+[INFO ] 2022-11-22 22:53:09.981 [main] Ecommers - enter lname
+[INFO ] 2022-11-22 22:53:10.089 [main] Ecommers - enter postal code
+[INFO ] 2022-11-22 22:53:10.179 [main] Ecommers - continue to info page
+[INFO ] 2022-11-22 22:53:10.288 [main] Ecommers - click on finish
+[INFO ] 2022-11-22 23:32:38.727 [main] Ecommers - url open
+[INFO ] 2022-11-22 23:32:38.911 [main] Ecommers - enter username
+[INFO ] 2022-11-22 23:32:39.038 [main] Ecommers - enter password
+[INFO ] 2022-11-22 23:32:39.217 [main] Ecommers - click on loginBtn
+[INFO ] 2022-11-22 23:32:39.347 [main] Ecommers - salect product 1
+[INFO ] 2022-11-22 23:32:39.427 [main] Ecommers - salect product 2
+[INFO ] 2022-11-22 23:32:39.536 [main] Ecommers - click on add to cart
+[INFO ] 2022-11-22 23:32:39.625 [main] Ecommers - continue to checkout
+[INFO ] 2022-11-22 23:32:39.742 [main] Ecommers - enter fname
+[INFO ] 2022-11-22 23:32:39.857 [main] Ecommers - enter lname
+[INFO ] 2022-11-22 23:32:39.958 [main] Ecommers - enter postal code
+[INFO ] 2022-11-22 23:32:40.054 [main] Ecommers - continue to info page
+[INFO ] 2022-11-22 23:32:40.147 [main] Ecommers - click on finish
